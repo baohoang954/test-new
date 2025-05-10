@@ -4,3 +4,254 @@
 	<SDL.h>
 	<SDL_image.h>
 
+1744036535 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\testproject - background\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1744036535 c:\users\pc\downloads\nam nhat\lap trinh nang cao\testproject - background\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1744036556 c:\users\pc\downloads\nam nhat\lap trinh nang cao\testproject - background\defs.h
+
+1744036535 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1744036535 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1744036556 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background\defs.h
+
+1745813751 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"input.h"
+	"character.h"
+
+1744036535 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1745813795 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\defs.h
+
+1745813724 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\character.cpp
+	"character.h"
+	<SDL.h>
+
+1745459683 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\character.h
+	<SDL.h>
+
+1745457972 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\input.cpp
+	"input.h"
+
+1745458021 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\7b.testproject - background - copy\input.h
+	<SDL.h>
+	<iostream>
+
+1745813724 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - background - copy\character.cpp
+	"character.h"
+	<SDL.h>
+
+1745459683 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - background - copy\character.h
+	<SDL.h>
+
+1745457972 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - background - copy\input.cpp
+	"input.h"
+
+1745458021 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - background - copy\input.h
+	<SDL.h>
+	<iostream>
+
+1746281595 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\character.cpp
+	"character.h"
+	<SDL.h>
+
+1746281595 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\character.h
+	<SDL.h>
+
+1746281470 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\input.cpp
+	"input.h"
+
+1746281470 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\input.h
+	<SDL.h>
+	"character.h"
+
+1746282396 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\main.cpp
+	<iostream>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"graphics.h"
+	"defs.h"
+	"input.h"
+	"character.h"
+
+1744036535 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1745813795 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test\defs.h
+
+1746631723 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\character.cpp
+	"character.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1746631723 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\character.h
+	<SDL.h>
+
+1746631723 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\input.cpp
+	"input.h"
+	"defs.h"
+	<SDL_mixer.h>
+	<cstdlib>
+	<ctime>
+
+1746631723 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\input.h
+	<SDL.h>
+	"character.h"
+	"obstacle.h"
+	<vector>
+
+1746630128 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\defs.h
+
+1746629295 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\obstacle.h
+
+1746631778 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	"graphics.h"
+	"defs.h"
+	"input.h"
+	"character.h"
+	"obstacle.h"
+
+1746628499 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 2\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"defs.h"
+	<vector>
+
+1746631723 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\character.cpp
+	"character.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1746631723 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\character.h
+	<SDL.h>
+
+1746631723 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\input.cpp
+	"input.h"
+	"defs.h"
+	<SDL_mixer.h>
+	<cstdlib>
+	<ctime>
+
+1746631723 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\input.h
+	<SDL.h>
+	"character.h"
+	"obstacle.h"
+	<vector>
+
+1746629295 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\obstacle.h
+
+1746632723 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\defs.h
+
+1746633199 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	"graphics.h"
+	"defs.h"
+	"input.h"
+	"character.h"
+	"obstacle.h"
+
+1746628499 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - grok ai test 3\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"defs.h"
+	<vector>
+
+1746885294 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\character.cpp
+	"character.h"
+	<math.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1746885187 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\character.h
+	<SDL.h>
+
+1746642220 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\input.cpp
+	"input.h"
+	"defs.h"
+	<SDL_mixer.h>
+	<cstdlib>
+	<ctime>
+
+1746642220 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\input.h
+	<SDL.h>
+	"character.h"
+	"obstacle.h"
+	"defs.h"
+	<vector>
+
+1746642040 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\obstacle.h
+
+1746642040 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\defs.h
+
+1746885294 source:c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	"graphics.h"
+	"defs.h"
+	"input.h"
+	"character.h"
+	"obstacle.h"
+
+1746885187 c:\users\pc\downloads\nam nhat\lap trinh nang cao\all testproject\gaming\7b.testproject - test 3\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"defs.h"
+	<vector>
+
